@@ -1,0 +1,128 @@
+{
+    "_comentario": "Archivo de configuracion del juego Carrito AVL Runner",
+    "juego": {
+        "distancia_total_m": 1000,
+        "velocidad_x_ms": 5,
+        "velocidad_y_ms": 3,
+        "refresh_ms": 200,
+        "fuerza_salto": 12,
+        "gravedad": 9.8,
+        "energia_inicial": 100,
+        "color_carrito": "#3A7BD5",
+        "color_salto": "#F5A623",
+        "pixels_por_metro": 10
+    },
+    "pantalla": {
+        "ancho": 1280,
+        "alto": 720,
+        "titulo": "Carrito AVL Runner"
+    },
+    "tipos_obstaculo": {
+        "ROCA": {
+            "danio": 20,
+            "color": "#5a5a5a"
+        },
+        "BARRIL": {
+            "danio": 35,
+            "color": "#E87722"
+        },
+        "CHARCO": {
+            "danio": 10,
+            "color": "#1a3a5c"
+        },
+        "MURO": {
+            "danio": 30,
+            "color": "#c2b59b"
+        },
+        "CONO": {
+            "danio": 5,
+            "color": "#FF6B35"
+        }
+    },
+    "obstaculos": [
+        {
+            "tipo": "ROCA",
+            "x1": 100,
+            "y1": 300,
+            "x2": 140,
+            "y2": 360
+        },
+        {
+            "tipo": "BARRIL",
+            "x1": 250,
+            "y1": 280,
+            "x2": 290,
+            "y2": 340
+        },
+        {
+            "tipo": "CHARCO",
+            "x1": 350,
+            "y1": 530,
+            "x2": 430,
+            "y2": 560
+        },
+        {
+            "tipo": "MURO",
+            "x1": 480,
+            "y1": 200,
+            "x2": 510,
+            "y2": 500
+        },
+        {
+            "tipo": "CONO",
+            "x1": 600,
+            "y1": 510,
+            "x2": 630,
+            "y2": 560
+        },
+        {
+            "tipo": "ROCA",
+            "x1": 650,
+            "y1": 290,
+            "x2": 690,
+            "y2": 350
+        },
+        {
+            "tipo": "BARRIL",
+            "x1": 720,
+            "y1": 160,
+            "x2": 760,
+            "y2": 220
+        },
+        {
+            "tipo": "CHARCO",
+            "x1": 780,
+            "y1": 520,
+            "x2": 860,
+            "y2": 555
+        },
+        {
+            "tipo": "MURO",
+            "x1": 820,
+            "y1": 200,
+            "x2": 850,
+            "y2": 480
+        },
+        {
+            "tipo": "CONO",
+            "x1": 900,
+            "y1": 500,
+            "x2": 930,
+            "y2": 550
+        },
+        {
+            "tipo": "ROCA",
+            "x1": 940,
+            "y1": 310,
+            "x2": 980,
+            "y2": 370
+        },
+        {
+            "tipo": "BARRIL",
+            "x1": 960,
+            "y1": 150,
+            "x2": 1000,
+            "y2": 210
+        }
+    ]
+}

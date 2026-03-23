@@ -1,0 +1,588 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1001px" height="721px" viewBox="-0.5 -0.5 1001 721" content="&lt;mxfile&gt;&lt;diagram id=&quot;DfA7mRCTJiw6FgfIrSQG&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <rect x="585" y="545" width="170" height="150" fill="#d5e8d4" stroke="#82b366" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 172px; height: 150px; padding-top: 545px; margin-left: 585px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 170px; height: 150px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            NodoAVL
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + obstaculo: Obstaculo
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + izquierdo: NodoAVL | None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + derecho: NodoAVL | None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + altura: int
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + factor_balance: int
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + actualizar_altura() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + clave() -&gt; tuple[int, int]
+                                        <br/>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="585" y="557" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        NodoAVL...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="210" width="220" height="240" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 222px; height: 240px; padding-top: 210px; margin-left: 560px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 220px; height: 240px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            ArbolAVL
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - raiz: NodoAVL | None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - total_nodos: int
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + insertar(obs) -&gt; bool
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + eliminar(x, y) -&gt; bool
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + buscar(x, y) -&gt; Obstaculo | None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + rango(xmin, xmax, ymin, ymax) -&gt; list
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + inorden() -&gt; list
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + preorden() -&gt; list
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + postorden() -&gt; list
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + bfs() -&gt; list[list]
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _rotar_derecha(nodo) -&gt; NodoAVL
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _rotar_izquierda(nodo) -&gt; NodoAVL
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _balancear(nodo) -&gt; NodoAVL
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="560" y="222" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        ArbolAVL...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="840" y="520" width="160" height="200" fill="#f8cecc" stroke="#b85450" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(184, 84, 80), rgb(215, 129, 126));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 162px; height: 200px; padding-top: 520px; margin-left: 840px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 160px; height: 200px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            Obstaculo
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + x1: int # coord izquierda
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + y1: int # coord superior
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + x2: int # coord derecha
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + y2: int # coord inferior
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + tipo: ObstacleType
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + danio: int
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + eliminado: bool
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + clave_avl() -&gt; tuple[int, int]
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + rect() -&gt; pygame.Rect
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + color() -&gt; tuple
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="840" y="532" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        Obstaculo...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="195" width="160" height="270" fill="#fff2cc" stroke="#d6b656" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 162px; height: 270px; padding-top: 195px; margin-left: 0px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 160px; height: 270px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            Carrito
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + x: float # posición mundo
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + y: float
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + velocidad_x: float
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + velocidad_y: float
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + energia: int # 0-100
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + saltando: bool
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + color_actual: tuple
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + color_base: tuple
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + color_salto: tuple
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + actualizar(dt) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + saltar() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + moverse_y(dir) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + recibir_danio(pts) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + rect() -&gt; pygame.Rect
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + esta_vivo() -&gt; bool
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="0" y="207" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        Carrito...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="250" y="210" width="180" height="240" fill="#e1d5e7" stroke="#9673a6" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 182px; height: 240px; padding-top: 210px; margin-left: 250px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 180px; height: 240px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            GameEngine
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - carrito: Carrito
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - arbol: ArbolAVL
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - renderer: Renderer
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - input_handler: InputHandler
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - config: ConfigLoader
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - estado: GameState
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - camara_x: float
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - meta_x: int
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + run() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _game_loop() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _actualizar(dt) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _detectar_colisiones() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - _verificar_fin() -&gt; None
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="250" y="222" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        GameEngine...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="235" y="545" width="210" height="150" fill="#b0e3e6" stroke="#0e8088" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63)); stroke: light-dark(rgb(14, 128, 136), rgb(70, 168, 175));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 212px; height: 150px; padding-top: 545px; margin-left: 235px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 210px; height: 150px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            Renderer
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - screen: pygame.Surface
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - camara_x: float
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + dibujar_escena(state) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + dibujar_carretera() -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + dibujar_carrito(c) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + dibujar_obstaculos(lista) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + dibujar_hud(energia, dist) -&gt; None
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="235" y="557" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        Renderer...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="255" y="15" width="170" height="90" fill="#bac8d3" stroke="#23445d" pointer-events="all" style="fill: light-dark(rgb(186, 200, 211), rgb(57, 69, 78)); stroke: light-dark(rgb(35, 68, 93), rgb(160, 188, 210));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 172px; height: 90px; padding-top: 15px; margin-left: 255px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 170px; height: 90px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            InputHandler
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        - eventos: list
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + procesar(): -&gt; dict[str, bool]
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + debe_salir() -&gt; bool
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="255" y="27" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        InputHandler...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="0" width="160" height="120" fill="#b1ddf0" stroke="#10739e" pointer-events="all" style="fill: light-dark(rgb(177, 221, 240), rgb(23, 61, 77)); stroke: light-dark(rgb(16, 115, 158), rgb(84, 169, 206));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 162px; height: 120px; padding-top: 0px; margin-left: 560px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 160px; height: 120px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; word-wrap: normal; ">
+                                    <p style="margin:0px;margin-top:4px;text-align:center;">
+                                        <b>
+                                            ConfigLoader
+                                        </b>
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + config: dict
+                                    </p>
+                                    <hr style="border-style:solid;" size="1"/>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + cargar(ruta) -&gt; None
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + get(clave, default) -&gt; Any
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + obstaculos() -&gt; list[dict]
+                                    </p>
+                                    <p style="margin:0px;margin-left:4px;">
+                                        + validar() -&gt; bool
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="560" y="12" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        ConfigLoader...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 445.99 330 L 557.76 330" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 430.99 330 L 438.49 325.59 L 445.99 330 L 438.49 334.41 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 545.88 336.5 L 558.88 330 L 545.88 323.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 322px; margin-left: 452px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="452" y="322" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px">
+                        1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 234.01 330 L 162.24 330" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 249.01 330 L 241.51 334.41 L 234.01 330 L 241.51 325.59 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 174.12 323.5 L 161.12 330 L 174.12 336.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 322px; margin-left: 232px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="232" y="322" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px">
+                        1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 755 620 L 837.76 620" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 825.88 626.5 L 838.88 620 L 825.88 613.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 670 465.99 L 670 542.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 670 450.99 L 674.41 458.49 L 670 465.99 L 665.59 458.49 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 663.5 530.88 L 670 543.88 L 676.5 530.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 460px; margin-left: 652px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="652" y="460" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px">
+                        1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 340 450 L 340 542.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 333.5 530.88 L 340 543.88 L 346.5 530.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 498px; margin-left: 340px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    Use
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="340" y="501" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        Use
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 340 210 L 340 107.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 346.5 119.12 L 340 106.12 L 333.5 119.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 157px; margin-left: 340px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    Use
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="340" y="160" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        Use
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 425 60 L 557.76 60" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 545.88 66.5 L 558.88 60 L 545.88 53.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 60px; margin-left: 493px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+                                    Use
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="493" y="63" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        Use
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
